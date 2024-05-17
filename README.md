@@ -8,7 +8,7 @@
 	       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	   </a>
 	   <a href="https://x.xom/andrewspiece">
-	       <img src="![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:andrewspiece)"/>
+		![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:andrewspiece)
 	   </a>
 	   📫 How to reach me: <a href='mailto:aspiece@gbcs.org'>aspiece@gbcs.org</a>
 </p>
