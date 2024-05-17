@@ -13,6 +13,16 @@
 	   📫 How to reach me: <a href='mailto:aspiece@gbcs.org'>aspiece@gbcs.org</a>
 </p>
 
+## Github Statistics
+<p align='center'>
+	<a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/>
+	   </a>
+	   <a href="https://github.com/yourusername/github-readme-stats">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/>
+	   </a>
+</p>
+
 
 
 <!--
