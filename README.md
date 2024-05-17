@@ -23,7 +23,11 @@
 	   </a>
 </p>
 
-
+## 🛠 Technology Stack
+* Python, Javascript, Java
+* HTML, CSS
+* GitHub
+* SCORM
 
 <!--
 **aspiece/aspiece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
