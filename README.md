@@ -145,9 +145,3 @@ _Bachelor of Arts, Major: Mathematics, Minor: Computer Science_
 	   </a>
 </p>
 
-## 🛠 Technology Stack
-* Python, Javascript, Java
-* HTML, CSS
-* GitHub
-* SCORM
-
