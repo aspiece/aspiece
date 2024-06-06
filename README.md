@@ -76,12 +76,11 @@ _Masters of Education, Major: Instructional Technology_
 _Bachelor of Arts, Major: Mathematics, Minor: Computer Science_  
 2000-2005
 
-## Teacher Certifications
+## Michigan Teacher Certifications
 
 - Mathematics (EX)
 - Computer Science (NR)
-- Highly Qualified
-- Technology and Design (TX)
+- Technology and Design (TX) (Highly Qualified)
 
 ## Professional Training
 
