@@ -1,7 +1,6 @@
 # Andrew B. Spiece
 
 810.813.0363  
-[aspiece@gmail.com](mailto:aspiece@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/aspiece/)
 
 ## Experience
