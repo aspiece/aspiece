@@ -128,7 +128,6 @@ _Bachelor of Arts, Major: Mathematics, Minor: Computer Science_
 	       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	   </a>
 	   <a href="https://x.xom/andrewspiece"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/andrewspiece"></a><br>
-	   📫 How to reach me: <a href='mailto:aspiece@gbcs.org'>aspiece@gbcs.org</a>
 </p>
 
 ## Github Statistics
