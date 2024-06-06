@@ -97,8 +97,8 @@ _Bachelor of Arts, Major: Mathematics, Minor: Computer Science_
 
 - **Sample Curriculum Development**
 - **Snap! Coordinate System**
-- **Design Thinking Empathy Mapping** [Slide deck]
-- **Algorithms** [Slide deck]
+- **Design Thinking Empathy Mapping**
+- **Algorithms**
 - **Detroit is Limitless**  
   Featured in Emmy award-winning documentary
 - **State of Michigan - K12 Computer Science Standard Committee**  
