@@ -1,7 +1,5 @@
 # Andrew B. Spiece
 
-2201 Orchard Lake Dr.  
-Fenton, Michigan 48430  
 810.813.0363  
 [aspiece@gmail.com](mailto:aspiece@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/aspiece/)
