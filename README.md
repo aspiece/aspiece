@@ -99,7 +99,7 @@ _Bachelor of Arts, Major: Mathematics, Minor: Computer Science_
 - **Snap! Coordinate System**
 - **Design Thinking Empathy Mapping**
 - **Algorithms**
-- **Detroit is Limitless**  
+- [**Detroit is Limitless**](https://youtu.be/6p5x6VtVbz0?si=tZPR0TPU0QYj9Mxb)
   Featured in Emmy award-winning documentary
 - **State of Michigan - K12 Computer Science Standard Committee**  
   Represented Microsoft on a committee to launch K12 Computer Science Standards for the State of Michigan
