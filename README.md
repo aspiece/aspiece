@@ -5,7 +5,7 @@
 
 ## Experience
 
-### Genesee Career Institute, 
+### Genesee Career Institute, Career Technical Education
 **Genesee Intermediate School Distict**  
 _August 2024 - Present_
 
