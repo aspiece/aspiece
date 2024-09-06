@@ -5,9 +5,20 @@
 
 ## Experience
 
+### Genesee Career Institute, 
+**Genesee Intermediate School Distict**  
+_August 2024 - Present_
+
+- Design and implement a comprehensive curriculum in Computer Science that aligns with state standards and the needs of diverse high school students.
+- Lead the integration of technology into teaching practices, focusing on programming, robotics, and digital transformations to enhance student engagement and learning outcomes.
+- Develop and execute innovative project-based learning experiences, encouraging students to apply computer science principles in real-world scenarios.
+- Champion the use of Artificial Intelligence and machine learning concepts in classroom projects, fostering an advanced understanding of emerging technologies.
+- Cultivate a classroom environment that supports creativity, problem-solving, and collaboration, while accommodating different learning styles and abilities.
+- Mentor and guide students in developing their career aspirations, particularly in technology and computer science fields, contributing to their overall personal and professional growth.
+
 ### Computer Science Teacher, Career Technical Education
 **Grand Blanc High School, Grand Blanc**  
-_August 2023 - Present_
+_August 2023 - August 2024_
 
 - Design and implement a comprehensive curriculum in Computer Science that aligns with state standards and the needs of diverse high school students.
 - Lead the integration of technology into teaching practices, focusing on programming, robotics, and digital transformations to enhance student engagement and learning outcomes.
