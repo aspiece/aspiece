@@ -1,6 +1,5 @@
 # Andrew B. Spiece
 
-810.813.0363  
 [LinkedIn](https://www.linkedin.com/in/aspiece/)
 
 ## Experience
